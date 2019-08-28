@@ -1,3 +1,5 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > CoE MPP template
+
 # CoE MPP template
 This template repository outlines how the CoE MPP would look in practice. Don't forget to take a look at the repository that explains [the CoE MPP process](https://github.com/GSA/CoE-MPP-process/) itself. Please give any and all feedback you have through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
