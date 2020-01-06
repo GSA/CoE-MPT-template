@@ -1,6 +1,6 @@
 ---
-name: CoE MPP User Story Template
-about: A template to use for new Issues when a CoE MPP buy is ready for solicitation.
+name: MPT Issue template
+about: A template to use for new Issues when a MPT buy is ready for solicitation.
 title: "{{User-Story-Title}}"
 labels: ''
 assignees: ''
@@ -18,17 +18,17 @@ assignees: ''
 
 ### The project
 
-> Please replace this line with the content from this section in the Market Research Report created for this CoE MPP buy.
+> Please replace this line with the content from this section in the Market Research Report created for this MPT buy.
 
 ### The user story
 
-> Please replace this line with the actual user story or user stories that are the subject of this CoE MPP buy.
+> Please replace this line with the actual user story or user stories that are the subject of this MPT buy.
 
 ## Our expectations
 
 ### Deliverables
 
-This is a list of deliverables that the government is expecting to obtain as a result of this CoE MPP buy:
+This is a list of deliverables that the government is expecting to obtain as a result of this MPT buy:
 
 * List
 * Of
